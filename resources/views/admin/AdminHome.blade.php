@@ -9,6 +9,7 @@
 
                     <div class="card-body">
                         <h1>Administrator Dashboard</h1>
+                        <h1>HAHAHAHAHAHAHA</h1>
                     </div>
                 </div>
             </div>
